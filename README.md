@@ -1,2 +1,0 @@
-# hackerabad
-Hackerabad Session
